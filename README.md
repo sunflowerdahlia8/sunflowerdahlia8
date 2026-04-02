@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ _tech st_ck_ (brat edit)
+## 🛠️ _tech st_ck_
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8ACE00" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=oracle&logoColor=8ACE00" />
@@ -30,8 +30,8 @@
 
 ## 📊 _github insights_
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USER-MO]&show_icons=true&theme=tokyonight&bg_color=1a1a1a&title_color=8ACE00&text_color=ffffff&icon_color=8ACE00&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER-MO]&layout=compact&theme=tokyonight&bg_color=1a1a1a&title_color=8ACE00&text_color=ffffff&icon_color=8ACE00&hide_border=true" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunflowerdahlia8&show_icons=true&theme=tokyonight&bg_color=1a1a1a&title_color=8ACE00&text_color=ffffff&icon_color=8ACE00&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunflowerdahlia8&layout=compact&theme=tokyonight&bg_color=1a1a1a&title_color=8ACE00&text_color=ffffff&icon_color=8ACE00&hide_border=true" alt="Langs" />
 </p>
 
 ---
