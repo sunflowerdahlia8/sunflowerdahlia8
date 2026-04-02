@@ -1,6 +1,6 @@
 # <p align="center">🛡️ naiyana | cybersecurity aspirant</p>
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ACE00&height=150&text=cybers_c %20_spir_nt&fontSize=70&fontColor=000000&fontAlignY=50&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ACE00&height=150&text=cybers_c%20_spir_nt&fontSize=70&fontColor=000000&fontAlignY=50&animation=twinkle" />
 </h1>
 
 <p align="center">
