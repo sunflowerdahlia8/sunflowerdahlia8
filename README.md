@@ -1,39 +1,43 @@
-# <p align="center">🛡️ Hi there! I am Naiyana | Cybersecurity Aspirant</p>
+# <p align="center">🛡️ Naiyana | Cybersecurity Aspirant</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ACE00&height=150&text=br_t%20_spir_nt&fontSize=70&fontColor=000000&fontAlignY=50&animation=twinkle" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=150&section=header&text=Cybersecurity%20Aspirant%20|%20ISC2%20CC%20Certified&fontSize=35&animation=fadeIn" />
-</p>
-
-## 🚀 About Me
-- 🎓 **2nd Year IT irregular Student** (Working through my degree with focus).
-- 🏅 **Certified:** **ISC2 Certified in Cybersecurity (CC)** – *Building a strong foundation in security principles.*
-- 🛡️ **Current Mission:** Completing the **Google Cybersecurity Professional Certificate**.
-- 💻 **Dev Background:** I leverage my experience in **Java, C#, and Python** to build secure applications and automation scripts.
-
----
-
-## 🛠️ My Technical Toolkit
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Security** | Access Control, Network Security, Risk Management |
-| **Development** | **Java**, **C#**, **Python** |
-| **Operating Systems** | Linux (Ubuntu/Kali), Windows |
-
----
-
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunflowerdahlia8&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunflowerdahlia8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/ISC2%20CC%20CERTIFIED-000000?style=for-the-badge&logo=isc2&logoColor=8ACE00" />
+  <img src="https://img.shields.io/badge/2ND%20YEAR%20CYBER%20STUDENT-000000?style=for-the-badge&logo=github&logoColor=8ACE00" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🟩 _bout me_
+- 🧪 Irreg student building my own path in **Cybersecurity**.
+- 🏅 Certified in Cybersecurity by **ISC2** (My first professional milestone).
+- 🐍 Transitioning from **Java/C#** development to full-time **Security Automation (Python)**.
+- 🚀 Starting the **Google Cybersecurity Professional Certificate** this April 5!
+
+---
+
+## 🛠️ _tech st_ck_ (brat edit)
 <p align="left">
-  <a href="[LINK-NG-LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR-EMAIL]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8ACE00" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=oracle&logoColor=8ACE00" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=8ACE00" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8ACE00" />
+</p>
+
+---
+
+## 📊 _github insights_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USER-MO]&show_icons=true&theme=tokyonight&bg_color=1a1a1a&title_color=8ACE00&text_color=ffffff&icon_color=8ACE00&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER-MO]&layout=compact&theme=tokyonight&bg_color=1a1a1a&title_color=8ACE00&text_color=ffffff&icon_color=8ACE00&hide_border=true" alt="Langs" />
+</p>
+
+---
+
+## 🟩 _let's connect_
+  <a href="mailto:sunflowerdahlia8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8ACE00?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 </p>
