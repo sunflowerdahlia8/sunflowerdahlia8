@@ -1,6 +1,6 @@
-# <p align="center">🛡️ Naiyana | Cybersecurity Aspirant</p>
+# <p align="center">🛡️ naiyana | cybersecurity aspirant</p>
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ACE00&height=150&text=br_t%20_spir_nt&fontSize=70&fontColor=000000&fontAlignY=50&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ACE00&height=150&text=cybers_c%20_spir_nt&fontSize=70&fontColor=000000&fontAlignY=50&animation=twinkle" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🧪 Irreg student building my own path in **Cybersecurity**.
 - 🏅 Certified in Cybersecurity by **ISC2** (My first professional milestone).
 - 🐍 Transitioning from **Java/C#** development to full-time **Security Automation (Python)**.
-- 🚀 Starting the **Google Cybersecurity Professional Certificate** this April 5!
+- 🚀 Starting the **Google Cybersecurity Professional Certificate**.
 
 ---
 
